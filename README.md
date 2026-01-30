@@ -2,8 +2,6 @@
   
 # 🚀 Sang Jie Xun | AI & Web3 Pioneer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Architect+%26+Web3+Ecosystem+Builder;10%2B+Years+in+Artificial+Intelligence;Deep+Learning+%26+Large+Language+Models;Based+in+Dalian%2C+China 🇨🇳)](https://git.io/typing-svg)
-
 [![Website](https://img.shields.io/badge/Website-Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sangjiexun.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sangjiexun)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sangjiexun)
