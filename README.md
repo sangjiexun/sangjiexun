@@ -16,14 +16,3 @@ Seasoned AI Architect and Web3 ecosystem builder with over **10 years of experie
 
 ### 🇨🇳 中文
 拥有**10年以上经验**的资深AI架构师和Web3生态系统构建者，专注于人工智能、大语言模型和算法开发。来自**中国大连**，擅长构建前沿AI解决方案和去中心化Web3应用，推动行业变革。
-
-### 🇯🇵 日本語
-10年以上の経験を持つシニアAIアーキテクト兼Web3エコシステムビルダー。人工知能、大規模言語モデル、アルゴリズム開発を専門としています。**中国大連**を拠点に、業界を変革する最先端AIソリューションと分散型Web3アプリケーションの構築に特化しています。
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/sangjiexun/count.svg)
-
-*Last updated: January 2025*
-
-</div>
