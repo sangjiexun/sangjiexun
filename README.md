@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 About Me | 私について | について
+## 🌟 AI开发者 桑杰逊 
 
 ### 🇬🇧 English
 Seasoned AI Architect and Web3 ecosystem builder with over **10 years of experience** in artificial intelligence, large language models, and algorithm development. Based in **Dalian, China**, I specialize in building cutting-edge AI solutions and decentralized Web3 applications that transform industries.
