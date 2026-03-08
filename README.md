@@ -27,19 +27,18 @@
 
 ### 📈 提交动态
 
-<!-- GitHub Activity Graph -->
 <a href="https://github.com/sangjiexun">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangjiexun&theme=react-dark&hide_border=true&area=true&custom_title=桑杰逊的提交动态" alt="桑杰逊's GitHub Activity Graph" />
 </a>
 
 ---
 
-### 🐍 贡献图
+### 🐍 贪吃蛇贡献图
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangjiexun/sangjiexun/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangjiexun/sangjiexun/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sangjiexun/sangjiexun/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake.svg" />
 </picture>
 
 ---
