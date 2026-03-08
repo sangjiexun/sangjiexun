@@ -27,7 +27,10 @@
 
 ### 📈 提交动态
 
-[![桑杰逊's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sangjiexun&theme=tokyo-night&hide_border=true)](https://github.com/sangjiexun)
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/sangjiexun">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangjiexun&theme=react-dark&hide_border=true&area=true&custom_title=桑杰逊的提交动态" alt="桑杰逊's GitHub Activity Graph" />
+</a>
 
 ---
 
@@ -44,7 +47,7 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangjiexun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sangjiexun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
