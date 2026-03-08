@@ -25,6 +25,12 @@
 
 ---
 
+### 📈 提交动态
+
+[![桑杰逊's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sangjiexun&theme=tokyo-night&hide_border=true)](https://github.com/sangjiexun)
+
+---
+
 ### 🐍 贡献图
 
 <picture>
