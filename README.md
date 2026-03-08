@@ -25,40 +25,6 @@
 
 ---
 
-### 📈 提交动态
-
-<a href="https://github.com/sangjiexun">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangjiexun&theme=react-dark&hide_border=true&area=true&custom_title=桑杰逊的提交动态" alt="桑杰逊's GitHub Activity Graph" />
-</a>
-
----
-
-### 🐍 贪吃蛇贡献图
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sangjiexun/sangjiexun/blob/output/github-snake.svg" />
-</picture>
-
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangjiexun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangjiexun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjiexun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ### 🛠️ 技术栈
 
 ```
