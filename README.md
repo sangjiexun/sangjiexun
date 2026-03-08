@@ -25,7 +25,7 @@
 
 ---
 
-### 🐍 贡献图
+### 📊 GitHub 贡献
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangjiexun/sangjiexun/output/github-contribution-grid-snake-dark.svg">
@@ -51,19 +51,6 @@ Tools:        Git | Docker | VS Code | PyPI
 | 包名 | 版本 | 描述 |
 |------|------|------|
 | [clawcoder](https://pypi.org/project/clawcoder/) | ![PyPI](https://img.shields.io/pypi/v/clawcoder?style=flat-square) | AI-Powered Coding Assistant |
-
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangjiexun&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangjiexun&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangjiexun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
