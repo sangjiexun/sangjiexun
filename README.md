@@ -22,6 +22,7 @@
 | 项目 | 描述 |
 |------|------|
 | **[🦞 ClawCoder](https://github.com/sangjiexun/clawcoder)** | AI驱动的命令行编程助手，基于LangGraph，由Kimi K2.5驱动 |
+| **[🛠️ ClanKit](https://github.com/sangjiexun/ClanKit)** | 多 LLM 桌面客户端（Electron + Vue），参与上游开发与 Bug 修复 |
 
 ---
 
@@ -29,7 +30,7 @@
 
 ```
 Languages:    Python | TypeScript | JavaScript | Go
-Frameworks:   LangGraph | LangChain | FastAPI | React
+Frameworks:   LangGraph | LangChain | FastAPI | React | Vue | Electron
 AI/ML:        Kimi AI | OpenAI | Claude | LangChain
 Tools:        Git | Docker | VS Code | PyPI
 ```
@@ -49,6 +50,7 @@ Tools:        Git | Docker | VS Code | PyPI
 - 🤖 **AI原生开发** — 探索AI如何改变软件开发的一切
 - 🔧 **工具构建** — 构建让开发者更高效的工具
 - 📚 **持续学习** — 深入研究LangGraph、Agent、RAG等前沿技术
+- 🤝 **开源协作** — 向上游项目贡献 Bug 修复与功能改进
 
 ---
 
@@ -56,6 +58,7 @@ Tools:        Git | Docker | VS Code | PyPI
 
 - 📦 **PyPI发布** — ClawCoder已发布到PyPI，可通过 `pip install clawcoder` 安装
 - 🌟 **开源贡献** — 致力于开源社区建设
+- 🧩 **ClanKit 贡献** — 向 [XiamiYoung/ClanKit](https://github.com/XiamiYoung/ClanKit) 提交 [PR #14](https://github.com/XiamiYoung/ClanKit/pull/14)，修复 `manage_tasks` 工具的 JSON Schema 校验错误（`plan.allowList` 数组缺少 `items` 定义，导致 Gemini 等严格校验的 LLM 返回 400）
 - 🚀 **AI应用** — 探索AI在实际开发场景中的应用
 
 ---
