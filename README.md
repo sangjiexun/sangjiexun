@@ -69,7 +69,7 @@ Tools:        Git | Docker | VS Code | PyPI
   <a href="mailto:sangjiexun@gmail.com"><img src="https://img.shields.io/badge/Email-sangjiexun@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/sangjiexun"><img src="https://img.shields.io/badge/GitHub-sangjiexun-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/QQ-1009900122-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WeChat-bitchatgpt-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WeChat-clawgeek-07C160?style=flat-square&logo=wechat&logoColor=white"/>
 </p>
 
 ---
