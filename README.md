@@ -22,6 +22,8 @@
 | 项目 | 描述 |
 |------|------|
 | **[🦞 ClawCoder](https://github.com/sangjiexun/clawcoder)** | AI驱动的命令行编程助手，基于LangGraph，由Kimi K2.5驱动 |
+| **[🦐 OpenClaw Pet](https://github.com/sangjiexun/openclaw-pet)** | 桌面螯虾宠物 + 流式聊天 + 划词翻译，Tauri 2 + React，18 模型自动 fallback |
+| **[📈 炒股SKILL](https://github.com/sangjiexun/chaogu-skill)** | 为 HoursClaw 系统定制的 A股投研 Skill：MACD金叉+量能放大+突破120日新高 必要条件选股 + 看K线 |
 | **[🛠️ ClanKit](https://github.com/sangjiexun/ClanKit)** | 多 LLM 桌面客户端（Electron + Vue），参与上游开发与 Bug 修复 |
 
 ---
@@ -57,6 +59,8 @@ Tools:        Git | Docker | VS Code | PyPI
 ### 🏆 里程碑
 
 - 📦 **PyPI发布** — ClawCoder已发布到PyPI，可通过 `pip install clawcoder` 安装
+- 🦐 **OpenClaw Pet** — 用 Tauri + React 重写桌面宠物系统，支持 18 模型自动 fallback 与划词翻译
+- 📈 **炒股SKILL** — 为 HoursClaw 系统定制的 A股投研 Skill，已发布至 GitHub
 - 🌟 **开源贡献** — 致力于开源社区建设
 - 🧩 **ClanKit 贡献** — 向 [XiamiYoung/ClanKit](https://github.com/XiamiYoung/ClanKit) 提交 [PR #14](https://github.com/XiamiYoung/ClanKit/pull/14)，修复 `manage_tasks` 工具的 JSON Schema 校验错误（`plan.allowList` 数组缺少 `items` 定义，导致 Gemini 等严格校验的 LLM 返回 400）
 - 🚀 **AI应用** — 探索AI在实际开发场景中的应用
