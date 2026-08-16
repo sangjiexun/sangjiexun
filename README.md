@@ -1,61 +1,69 @@
-<!-- OpenClaw · ClawGeek 龙虾风格个人技术介绍卡片 -->
 <div align="center">
 
-  <!-- 主卡片 -->
-  <div style="max-width:720px; margin:24px auto; border-radius:18px; overflow:hidden; box-shadow:0 10px 40px rgba(255,90,40,.25); border:1px solid #FF6B35; background:#0E0E12;">
+<picture>
+  <img src="https://raw.githubusercontent.com/sangjiexun/sangjiexun/main/assets/openclaw-banner.png" alt="OpenClaw 龙虾 AI Builder 主视觉" width="100%">
+</picture>
 
-    <!-- 龙虾渐变标题栏 -->
-    <div style="background:linear-gradient(135deg,#FF6B35 0%,#F7352E 100%); padding:28px 24px; color:#fff;">
-      <div style="font-size:34px; font-weight:800; letter-spacing:1px;">🦞 OpenClaw <span style="opacity:.85;font-weight:500;">· ClawGeek</span></div>
-      <div style="margin-top:6px; font-size:15px; opacity:.92;">智能体 · 知识生态 · 本地优先的个人技术栈</div>
-    </div>
+# 🦞 sangjiexun · OpenClaw AI Builder
 
-    <!-- 简介 -->
-    <div style="padding:26px 24px; color:#E8E8EC; text-align:left;">
-      <h2 style="margin:0 0 8px; color:#FF8A5B; font-size:22px;">sangjiexun</h2>
-      <p style="margin:0 0 14px; color:#B8B8C0; line-height:1.7;">AI 产品工程师 / 全栈开发者。专注 <b style="color:#FF8A5B;">智能体（Agent）</b>、知识星球生态与结构化个人知识管理，相信「本地优先、可追溯、可关联」的工程美学。</p>
+### 把 AI 装进真实工作流
 
-      <!-- 技术栈 chips -->
-      <div style="display:flex; flex-wrap:wrap; gap:10px; margin:6px 0 4px;">
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">Python</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">Nuxt 3 / Vue</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">Node.js</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">LLM / Agent</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">爬虫 / 数据采集</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">知识星球生态</span>
-        <span style="padding:6px 14px; border-radius:999px; background:#1A1414; border:1px solid #FF6B35; color:#FF8A5B; font-size:13px;">数据可视化</span>
-      </div>
-    </div>
+AI Agent · 全栈产品 · 知识工程 · 自动化系统
 
-    <!-- 链接条 -->
-    <div style="padding:0 24px 24px; display:flex; flex-wrap:wrap; gap:14px; font-size:14px;">
-      <a href="https://github.com/sangjiexun" style="color:#FF8A5B; text-decoration:none;">★ GitHub @sangjiexun</a>
-      <span style="color:#444;">·</span>
-      <span style="color:#B8B8C0;">💬 微信 clawgeek</span>
-      <span style="color:#444;">·</span>
-      <a href="mailto:sangjiexun@gmail.com" style="color:#FF8A5B; text-decoration:none;">✉ sangjiexun@gmail.com</a>
-    </div>
+<a href="https://sangjiexun.github.io/personal-ip/"><strong>进入个人品牌站 →</strong></a>　
+<a href="https://github.com/sangjiexun/openclaw"><strong>探索 OpenClaw →</strong></a>
 
-  </div>
+</div>
 
-  <!-- 项目卡片 -->
-  <div style="max-width:720px; margin:0 auto 24px; display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+---
 
-    <div style="flex:1 1 200px; border-radius:14px; padding:18px; background:#14110F; border:1px solid #3a2a22; text-align:left;">
-      <div style="color:#FF8A5B; font-weight:700; margin-bottom:6px;">🦞 OpenClaw / ClawGeek</div>
-      <div style="color:#B8B8C0; font-size:13px; line-height:1.6;">面向创作者的 AI 产品，Nuxt + Python 架构，部署于独立服务器。</div>
-    </div>
+## 我在构建什么
 
-    <div style="flex:1 1 200px; border-radius:14px; padding:18px; background:#14110F; border:1px solid #3a2a22; text-align:left;">
-      <div style="color:#FF8A5B; font-weight:700; margin-bottom:6px;">个人 IP 站</div>
-      <div style="color:#B8B8C0; font-size:13px; line-height:1.6;">纯静态 + Mock 数据后台，双主题（黑客 / 网红）的个人站点。</div>
-    </div>
+我是 **sangjiexun**，一名 AI 产品工程师与全栈开发者。我的工作不是把模型接上就结束，而是把模型、工具、数据、知识与真实环境编排成可以持续运行的系统。
 
-    <div style="flex:1 1 200px; border-radius:14px; padding:18px; background:#14110F; border:1px solid #3a2a22; text-align:left;">
-      <div style="color:#FF8A5B; font-weight:700; margin-bottom:6px;">知识星球知识库</div>
-      <div style="color:#B8B8C0; font-size:13px; line-height:1.6;">Obsidian 双向链接 + Neo4j 关系图谱，多维度结构化归档。</div>
-    </div>
+> **Context → Build → Evolve**
+>
+> 看见全局，做出闭环，用反馈让系统进化。
 
-  </div>
+## 精选项目
+
+| 项目 | 方向 | 入口 |
+| --- | --- | --- |
+| **[OpenClaw](https://github.com/sangjiexun/openclaw)** | 跨平台个人 AI 助手生态，让 Agent 接入工具、知识与真实环境 | [GitHub](https://github.com/sangjiexun/openclaw) |
+| **[随声 AI](https://github.com/sangjiexun/suisheng-ai)** | 语音克隆、合成与播报 Web 应用 | [GitHub](https://github.com/sangjiexun/suisheng-ai) |
+| **[openAGu](https://github.com/sangjiexun/openAGu)** | A 股行业分类大盘监控与绩优股多维评分系统 | [GitHub](https://github.com/sangjiexun/openAGu) |
+| **[DeepSeek Harness](https://github.com/sangjiexun/deepseek-harness)** | Everything is a Plugin 的智能体实验场 | [GitHub](https://github.com/sangjiexun/deepseek-harness) |
+
+## 能力矩阵
+
+| AI Agent 系统 | 产品工程 | 知识与数据 |
+| --- | --- | --- |
+| OpenClaw · MCP · Skill · Multi-Agent | Nuxt · Python · Node.js · 静态站 | Obsidian · Neo4j · RAG · 可视化 |
+
+## 技术兴趣
+
+`AI Agent`　`LLM`　`MCP`　`Python`　`Nuxt`　`Vue`　`Node.js`　`Neo4j`　`RAG`　`GitHub Actions`　`数据采集`　`自动化`
+
+## 现场笔记
+
+我持续记录 AI 工程、自动化、知识管理、金融数据和个人产品实践：
+
+- [个人品牌站 / 实践笔记](https://sangjiexun.github.io/personal-ip/)
+- [我的 GitHub 项目](https://github.com/sangjiexun?tab=repositories)
+- [OpenClaw 生态](https://github.com/sangjiexun?tab=repositories&q=claw)
+
+## 联系我
+
+如果你正在思考 AI Agent、OpenClaw、知识工程、个人产品或自动化系统，欢迎交流：
+
+- **Email:** [sangjiexun@gmail.com](mailto:sangjiexun@gmail.com)
+- **微信:** `clawgeek`
+- **GitHub:** [@sangjiexun](https://github.com/sangjiexun)
+
+<div align="center">
+
+**Build useful systems. Keep the loop alive.**
+
+🦞　`agent.execute({ context: "real-world", loop: "evolve" })`
 
 </div>
